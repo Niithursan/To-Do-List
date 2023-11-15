@@ -1,0 +1,6 @@
+body{
+    background: #0e60ad;
+    background-image: url(./Components/Assets/background.gif);
+    background-size:cover;
+    background-position: center;
+}
